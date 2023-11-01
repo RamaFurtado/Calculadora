@@ -1,0 +1,28 @@
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.exe
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.deps.json
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.runtimeconfig.json
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.dll
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.pdb
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.AssemblyInfoInputs.cache
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.AssemblyInfo.cs
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.csproj.CoreCompileInputs.cache
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.dll
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\obj\Debug\net7.0-windows\refint\pruebaParcial.dll
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.pdb
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.genruntimeconfig.cache
+C:\Users\agusm\Documents\Archivos-UTN\Tercer semestre\Laboratorio 3\pruebaParcial\obj\Debug\net7.0-windows\ref\pruebaParcial.dll
+C:\Users\ramir\Desktop\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.exe
+C:\Users\ramir\Desktop\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.deps.json
+C:\Users\ramir\Desktop\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.runtimeconfig.json
+C:\Users\ramir\Desktop\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.dll
+C:\Users\ramir\Desktop\pruebaParcial\bin\Debug\net7.0-windows\pruebaParcial.pdb
+C:\Users\ramir\Desktop\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\Desktop\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.AssemblyInfoInputs.cache
+C:\Users\ramir\Desktop\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.AssemblyInfo.cs
+C:\Users\ramir\Desktop\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Desktop\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.dll
+C:\Users\ramir\Desktop\pruebaParcial\obj\Debug\net7.0-windows\refint\pruebaParcial.dll
+C:\Users\ramir\Desktop\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.pdb
+C:\Users\ramir\Desktop\pruebaParcial\obj\Debug\net7.0-windows\pruebaParcial.genruntimeconfig.cache
+C:\Users\ramir\Desktop\pruebaParcial\obj\Debug\net7.0-windows\ref\pruebaParcial.dll
